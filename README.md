@@ -36,7 +36,8 @@
     I prefer to spend my holidays in nature - rafting, hiking, cycling etc.
     Exercises every morning and athletics several times a week 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sesha3000&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### *Connect with Me*
     - [Telegram](https://t.me/sesha3000)
     - e-mail: plat@rsenii.ru
