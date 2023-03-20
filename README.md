@@ -1,4 +1,4 @@
-### Good day to You! 👋
+<h1 align="center"> Good day to You! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 * I'm Arsenii, a beginner data analyst. 
 * In the year 2020 I finished my education as Geophysicist.
@@ -36,6 +36,7 @@
     I prefer to spend my holidays in nature - rafting, hiking, cycling etc.
     Exercises every morning and athletics several times a week 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sesha3000&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ### Connect with Me
     - [Telegram](https://t.me/sesha3000)
     - e-mail: plat@rsenii.ru
