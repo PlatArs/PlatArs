@@ -4,12 +4,12 @@
 * In the year 2020 I finished my education as Geophysicist.
 * In 2022 I started to study Python and DS, to expand my knowledge and abilities.
 
-###  Here's my main projects:
+###  *Here's my main projects*:
 + [Bank Analytics of exited clients](https://github.com/Sesha3000/Bank_Analytics)
 
 + [Project 1 - Cleaning, transforming and analytics of CVs from hh.ru](https://github.com/Sesha3000/Project_1_hh.ru_analytics)
 
-##  What I can:
+##  *My skills*:
 
     Data Science
         - Data preparation, quality assurance, and analysis
@@ -29,7 +29,7 @@
         - Italian – A1 - Starter
         
 
-### Abot me
+### *Abot me*
     I follow the news of IT technologies and understand modern electronics and devices
     Studying foreign languages
     Interests in chemistry and physics, self-studying
@@ -37,6 +37,6 @@
     Exercises every morning and athletics several times a week 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sesha3000&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-### Connect with Me
+### *Connect with Me*
     - [Telegram](https://t.me/sesha3000)
     - e-mail: plat@rsenii.ru
