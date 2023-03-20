@@ -1,16 +1,41 @@
-### Hi there 👋
+### Good day to You! 👋
 
-<!--
-**Sesha3000/Sesha3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I'm Arsenii, a beginner data analyst. 
+* In the year 2020 I finished my education as Geophysicist.
+* In 2022 I started to study Python and DS, to expand my knowledge and abilities.
 
-Here are some ideas to get you started:
+###  Here's my main projects:
++ [Bank Analytics of exited clients](https://github.com/Sesha3000/Bank_Analytics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ [Project 1 - Cleaning, transforming and analytics of CVs from hh.ru](https://github.com/Sesha3000/Project_1_hh.ru_analytics)
+
+##  What I can:
+
+    Data Science
+        - Data preparation, quality assurance, and analysis
+        - Database design and modelling
+        - Exploratory data analysis
+
+    My Tools
+        - Databases: SQL, Excel
+        - Python: NumPy, Pandas
+        - Visualisation: Seaborn, Plotly
+        - Other: MS Word, Exel, PowerPoint, Prezi
+        
+    Languages
+        - Russian - Native
+        - English - C1 - Advanced
+        - German - B1+ - Medium
+        - Italian – A1 - Starter
+        
+
+### Abot me
+    I follow the news of IT technologies and understand modern electronics and devices
+    Studying foreign languages
+    Interests in chemistry and physics, self-studying
+    I prefer to spend my holidays in nature - rafting, hiking, cycling etc.
+    Exercises every morning and athletics several times a week 
+
+### Connect with Me
+    - [Telegram](https://t.me/sesha3000)
+    - e-mail: plat@rsenii.ru
