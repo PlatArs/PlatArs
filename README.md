@@ -7,7 +7,7 @@
 ###  *Here's my main projects*:
 + [Bank Analytics of exited clients](https://github.com/Sesha3000/Bank_Analytics)
 
-+ [Project 1 - Cleaning, transforming and analytics of CVs from hh.ru](https://github.com/Sesha3000/Project_1_hh.ru_analytics)
++ [Project 1 - Cleaning, transforming and analytics of CVs and vacancy from hh.ru](https://github.com/Sesha3000/Project_1_hh.ru_analytics)
 
 ##  *My skills*:
 
@@ -17,10 +17,10 @@
         - Exploratory data analysis
 
     My Tools
-        - Databases: SQL, Excel
+        - Databases: PostgreSQL, Excel
         - Python: NumPy, Pandas
-        - Visualisation: Seaborn, Plotly
-        - Other: MS Word, Exel, PowerPoint, Prezi
+        - Visualisation: Seaborn, Plotly, Matplotlib
+        - Other: VS Code, MS Office, Prezi
         
     Languages
         - Russian - Native
