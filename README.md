@@ -3,6 +3,7 @@
 * I'm Arsenii, a beginner data analyst. 
 * In the year 2020 I finished my education as Geophysicist.
 * In 2022 I started to study Python and DS, to expand my knowledge and abilities.
+* I really look forward to work on an AI project in the future.
 
 ###  *Here's my main projects*:
 + [Bank Analytics of exited clients](https://github.com/Sesha3000/Bank_Analytics)
