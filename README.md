@@ -36,5 +36,5 @@
     Exercises every morning and athletics several times a week 
 
 ### *Connect with Me*
-    - [Telegram](https://t.me/sesha3000)
-    - e-mail: plat@rsenii.ru
+   - [Telegram](https://t.me/sesha3000)
+   - e-mail: [plat@rsenii.ru](plat@rsenii.ru)
