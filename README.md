@@ -37,6 +37,6 @@
     I prefer to spend my holidays in nature - rafting, hiking, cycling etc.
     Exercises every morning and athletics several times a week 
 
-### *Connect with Me*
+### *You are welcome to connect with Me*
    - [Telegram](https://t.me/PlatArs)
    - e-mail: [plat@rsenii.ru](plat@rsenii.ru)
