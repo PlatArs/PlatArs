@@ -11,7 +11,7 @@
 
 + [Project 1 - Cleaning, transforming and analytics of CVs and vacancy from hh.ru](https://github.com/Sesha3000/Project_1_hh.ru_analytics)
 
-##  *My skills*:
+###  *My skills*:
 
     Data Science
         - Data preparation, quality assurance, and analysis
