@@ -31,7 +31,7 @@
         - Italian – A1 - Starter
         
 ### *Abot me*
-    I follow the news of IT technologies and understand modern electronics and devices
+    I follow the news of IT technologies and keen on modern electronics and devices
     Studying foreign languages
     Interests in chemistry and physics, self-studying
     I prefer to spend my holidays in nature - rafting, hiking, cycling etc.
