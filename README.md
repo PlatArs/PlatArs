@@ -33,7 +33,7 @@
 ### *Abot me*
     I follow the news of IT technologies and keen on modern electronics and devices
     Studying foreign languages
-    Also watching films
+    Also watching films and reading books on foreing languages
     Interests in chemistry and physics, self-studying
     I prefer to spend my holidays in nature - rafting, hiking, cycling etc.
     Exercises every morning and athletics several times a week 
