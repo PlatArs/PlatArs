@@ -43,4 +43,4 @@
    - e-mail: [plat@rsenii.ru](plat@rsenii.ru)
 
 
-<"center"> Thank You for Your attention!
+#### Thank You for Your attention!
