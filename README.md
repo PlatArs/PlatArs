@@ -42,5 +42,5 @@
    - [Telegram](https://t.me/PlatArs)
    - e-mail: [plat@rsenii.ru](plat@rsenii.ru)
 
-<center>#### Thank You for Your attention!</center>
+<center>Thank You for Your attention!</center>
 
