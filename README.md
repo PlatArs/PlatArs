@@ -22,7 +22,7 @@
         - Databases: PostgreSQL, Excel
         - Python: NumPy, Pandas
         - Visualisation: Seaborn, Plotly, Matplotlib
-        - Other: VS Code, MS Office, Prezi
+        - Other: CometML, VS Code, MS Office, Prezi
         
     Languages
         - Russian - Native
