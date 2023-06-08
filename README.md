@@ -7,6 +7,7 @@
 * I really look forward to work on an AI project in the future.
 * And I'm open for incoming job offers.
 
+
 ###  *Here's my main projects*:
 + [Bank Analytics of exited clients](https://github.com/Sesha3000/Bank_Analytics)
 
