@@ -11,7 +11,7 @@
 ###  *Here's my main projects*:
 + [Bank Analytics of exited clients](https://github.com/Sesha3000/Bank_Analytics)
 
-+ [Project 1 - Cleaning, transforming and analytics of CVs and vacancy from hh.ru](https://github.com/Sesha3000/Project_1_hh.ru_analytics)
++ [Project 1, 2 - Cleaning, transforming and analytics of CVs and vacancy from hh.ru](https://github.com/Sesha3000/Project_1_hh.ru_analytics)
 
 ###  *My skills*:
 
