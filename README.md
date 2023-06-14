@@ -1,4 +1,4 @@
-<h1 align="center"> Good day to You! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"></h1>
+<h1 align="center"> Good day to You! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"></h1>
 
 * I'm Arsenii, a beginner data analyst
 * In the year 2020 I finished my education as Geophysicist
