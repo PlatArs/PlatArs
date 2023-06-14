@@ -1,11 +1,11 @@
 <h1 align="center"> Good day to You! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-* I'm Arsenii, a beginner data analyst. 
-* In the year 2020 I finished my education as Geophysicist.
-* After graduation I was working in oil and gas industry in Schlumberger.
-* In 2022 I started to study Python and DS, to expand my knowledge and abilities.
-* I really look forward to work on an AI project in the future.
-* And I'm open for incoming job offers.
+* I'm Arsenii, a beginner data analyst
+* In the year 2020 I finished my education as Geophysicist
+* After graduation I was working in oil and gas industry in Schlumberger
+* In 2022 I started to study Python and DS, to expand my knowledge and abilities
+* I really look forward to work on an AI project in the future
+* And I'm open for incoming job offers
 
 
 ###  *Here's my main projects*:
