@@ -13,6 +13,8 @@
 
 + [Project 1, 2 - Cleaning, transforming and analytics of CVs and vacancy from hh.ru](https://github.com/Sesha3000/Project_1_hh.ru_analytics)
 
++ [Project 3 - Creating a model to predict a hotel's rating on booking.com](https://github.com/PlatArs/PROJECT-3_Hotels_ML)
+
 ###  *My skills*:
 
     Data Science
