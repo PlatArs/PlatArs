@@ -7,7 +7,6 @@
 * I really look forward to work on an AI project in the future
 * And I'm open for incoming job offers
 
-
 ###  *Here's my main projects*:
 + [Bank Analytics of exited clients](https://github.com/Sesha3000/Bank_Analytics)
 + [Project 1 - Cleaning and Feature Engineering of CVs database](https://github.com/PlatArs/Project_1_hh.ru_analytics/blob/main/Task%201.%20Анализ%20резюме%20из%20HeadHunter.ipynb)
