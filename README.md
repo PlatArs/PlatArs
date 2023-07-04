@@ -8,9 +8,9 @@
 * And I'm open for incoming job offers
 
 ###  *Here's my main projects*:
-+ [Bank Analytics of exited clients](https://github.com/Sesha3000/Bank_Analytics)
-+ [Project 1 - Cleaning and Feature Engineering of CVs database](https://github.com/PlatArs/Project_1_hh.ru_analytics/blob/main/Task%201.%20Анализ%20резюме%20из%20HeadHunter.ipynb)
-+ [Project 2 - Data Understanding vacancy](https://github.com/PlatArs/Project_1_hh.ru_analytics/blob/main/Task%202.%20Анализ%20вакансий%20из%20HeadHunter.ipynb)
++ [Bank Analytics of exited clients](https://github.com/Sesha3000/Bank_Analytics)  
++ [Project 1 - Cleaning and Feature Engineering of CVs database] (https://github.com/PlatArs/Project_1_hh.ru_analytics/blob/main/Task%201.%20Анализ%20резюме%20из%20HeadHunter.ipynb)  
++ [Project 2 - Data Understanding vacancy](https://github.com/PlatArs/Project_1_hh.ru_analytics/blob/main/Task%202.%20Анализ%20вакансий%20из%20HeadHunter.ipynb)  
 + [Project 3 - Creating a model to predict a hotel's rating on booking.com](https://github.com/PlatArs/PROJECT-3_Hotels_ML)
 
 ###  *My skills*:
