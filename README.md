@@ -3,7 +3,7 @@
 * I'm Arsenii, a beginner data scientist
 * In the year 2020 I finished my education as Geophysicist
 * After graduation I was working in oil and gas industry as supervisor in Schlumberger
-* In 2022 I started to study Python and DS, to expand my knowledge and abilities
+* In 2023 I started to study DS on Python, to expand my knowledge and abilities
 * I really look forward to work on an AI project in the future
 * And I'm open for incoming job offers
 
