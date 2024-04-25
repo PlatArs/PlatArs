@@ -9,10 +9,10 @@
 
 ###  *Here's my main projects*:
 + [First Year Project about NGOs in Russia](https://github.com/PlatArs/GOV_project)
-+ HH.ru Analytics:  
++ Analytics of the online recruiting platform:  
     + [Project 1 - Cleaning and Feature Engineering of CVs database](https://github.com/PlatArs/Project_1_hh.ru_analytics/blob/main/Task%201.%20Анализ%20резюме%20из%20HeadHunter.ipynb)  
     + [Project 2 - Data Understanding vacancy](https://github.com/PlatArs/Project_1_hh.ru_analytics/blob/main/Task%202.%20Анализ%20вакансий%20из%20HeadHunter.ipynb)  
-    + [Project 3 - ML to predict a hotel's rating on booking.com (Kaggle competition)](https://github.com/PlatArs/PROJECT-3_Hotels_ML)
++ [Project 3 - ML to predict a hotel's rating on booking.com (Kaggle competition)](https://github.com/PlatArs/PROJECT-3_Hotels_ML)
 + [Bank Analytics and ML model for exited clients](https://github.com/Sesha3000/Bank_Analytics)
 
 ###  *My skills*:
