@@ -44,7 +44,7 @@
 
 ### *You are welcome to connect with Me*
    - [Telegram](https://t.me/PlatArs)
-   - e-mail: [plat@rsenii.ru](plat@rsenii.ru)
+   - e-mail: [max@platars.ru](max@platars.ru)
 
 
 <h1 align="center">Thank You for Your attention!</h1>
